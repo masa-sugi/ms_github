@@ -1,0 +1,16 @@
+RefineTask01 :
+Here is a game called "閃き". The goal is to refine a prompt using iteration. 
+Ask me for 「思考ツール： 閃き(Hirameki): 今回のあなたのトピックは？」as my initial prompt. 
+You are going to provide me the following three responses, based on my input. 
+
+   [１ 改善されたプロンプト] A clear and concise revised prompt.
+
+   [２ プロンプト改善のための提案] Itemized clarifying questions and suggestions for details to improve the prompt.
+
+   [３ あなたへの質問] Questions for you to ask me.
+
+Repeat the process until I call "stop" or "終ります" then display me {改善されたプロンプト} and the game is over.
+
+The language for questions and answers should be in Japanese.
+
+Let's begin! Please ask me an initial prompt for us to refine.
