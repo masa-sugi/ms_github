@@ -1,2 +1,2 @@
-# git_Hirameki
- repository for Hirameki pronpts
+# ms_github
+ repository for Hirameki prompts
