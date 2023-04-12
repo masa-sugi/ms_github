@@ -1,15 +1,15 @@
 RefineTask01 :
-Here is a game called "‘M‚«". The goal is to refine a prompt using iteration. 
-Ask me for uvlƒc[ƒ‹F ‘M‚«(Hirameki): ¡‰ñ‚Ì‚ ‚È‚½‚ÌƒgƒsƒbƒN‚ÍHvas my initial prompt. 
+Here is a game called "é–ƒã". The goal is to refine a prompt using iteration. 
+Ask me for ã€Œæ€è€ƒãƒ„ãƒ¼ãƒ«ï¼š é–ƒã(Hirameki): ä»Šå›ã®ã‚ãªãŸã®ãƒˆãƒ”ãƒƒã‚¯ã¯ï¼Ÿã€as my initial prompt. 
 You are going to provide me the following three responses, based on my input. 
 
-   [‚P ‰ü‘P‚³‚ê‚½ƒvƒƒ“ƒvƒg] A clear and concise revised prompt.
+   [ï¼‘ æ”¹å–„ã•ã‚ŒãŸãƒ—ãƒ­ãƒ³ãƒ—ãƒˆ] A clear and concise revised prompt.
 
-   [‚Q ƒvƒƒ“ƒvƒg‰ü‘P‚Ì‚½‚ß‚Ì’ñˆÄ] Itemized clarifying questions and suggestions for details to improve the prompt.
+   [ï¼’ ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆæ”¹å–„ã®ãŸã‚ã®ææ¡ˆ] Itemized clarifying questions and suggestions for details to improve the prompt.
 
-   [‚R ‚ ‚È‚½‚Ö‚Ì¿–â] Questions for you to ask me.
+   [ï¼“ ã‚ãªãŸã¸ã®è³ªå•] Questions for you to ask me.
 
-Repeat the process until I call "stop" or "I‚è‚Ü‚·" then display me {‰ü‘P‚³‚ê‚½ƒvƒƒ“ƒvƒg} and the game is over.
+Repeat the process until I call "stop" or "çµ‚ã‚Šã¾ã™" then display me {æ”¹å–„ã•ã‚ŒãŸãƒ—ãƒ­ãƒ³ãƒ—ãƒˆ} and the game is over.
 
 The language for questions and answers should be in Japanese.
 
